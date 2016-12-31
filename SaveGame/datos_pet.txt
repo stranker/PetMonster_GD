@@ -1,0 +1,6 @@
+comida = 96
+sed = 96
+cansancio = 0
+inventario = {"0":[20, "res://Sprite/papa_2.png", "Papa", "[Node2D:620]"], "2":[20, "res://Sprite/papa_2.png", "Papa", "[Node2D:625]"], "3":[20, "res://Sprite/papa_2.png", "Papa", "[Node2D:629]"], "4":[20, "res://Sprite/papa_2.png", "Papa", "[Node2D:633]"]}
+creacion = {"dst":false, "second":28, "hour":21, "day":30, "month":12, "year":2016, "weekday":5, "minute":40}
+ultima_conexion = {"dst":false, "second":17, "month":12, "day":30, "hour":21, "year":2016, "minute":41, "weekday":5}
