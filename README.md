@@ -1,3 +1,7 @@
 # PetMonster_GD
 
 Script inicial GD
+
+CHECK LIST:
+
+CREAR OBJECT DE DICCIOANRIO
